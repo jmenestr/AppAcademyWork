@@ -5,7 +5,6 @@ class Player
   end
 
   def guess
-    puts "enter guess"
     guess = gets.chomp
     guess
   end
@@ -13,4 +12,9 @@ class Player
   def alert_unvalid_guess
     puts "your guess was invalid"
   end
+
+  def to_s
+    @name
+  end
+
 end

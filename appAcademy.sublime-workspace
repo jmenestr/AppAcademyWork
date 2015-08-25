@@ -1,0 +1,1294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hori",
+				"horizontal_walls"
+			],
+			[
+				"open",
+				"open_cells"
+			],
+			[
+				"aj",
+				"adjacent_cell"
+			],
+			[
+				"pos",
+				"possible_paths"
+			],
+			[
+				"empty",
+				"empty_positions"
+			],
+			[
+				"nex",
+				"next_moves"
+			],
+			[
+				"requi",
+				"require_relative"
+			],
+			[
+				"vali",
+				"valid_position_array"
+			],
+			[
+				"pat",
+				"patrol_boat"
+			],
+			[
+				"Com",
+				"ComputerPlayer"
+			],
+			[
+				"regis",
+				"register_secret_word"
+			],
+			[
+				"sec",
+				"secret_word"
+			],
+			[
+				"dis",
+				"display_grid"
+			],
+			[
+				"empt",
+				"empty_positions"
+			],
+			[
+				"emp",
+				"empty_positions"
+			],
+			[
+				"exac",
+				"exact_matches"
+			],
+			[
+				"loo",
+				"look_for_win"
+			],
+			[
+				"gro",
+				"group_positions_by_marker"
+			],
+			[
+				"pri",
+				"print_board"
+			],
+			[
+				"em",
+				"empty_board"
+			],
+			[
+				"epre",
+				"expression_chomped"
+			],
+			[
+				"new",
+				"new_game_state"
+			],
+			[
+				"diag",
+				"diagonals"
+			],
+			[
+				"game",
+				"game_board"
+			],
+			[
+				"mine",
+				"minesweeper"
+			],
+			[
+				"ad",
+				"adjacent_mine_count"
+			],
+			[
+				"possi",
+				"possible_game"
+			],
+			[
+				"curr",
+				"current_player"
+			],
+			[
+				"set",
+				"set_position"
+			],
+			[
+				"free",
+				"free_positions"
+			],
+			[
+				"H",
+				"HTMLGreeting	(Greetr.js)"
+			],
+			[
+				"fir",
+				"firstNameProperty"
+			],
+			[
+				"aver",
+				"averate_rating	(recipe.rb)"
+			],
+			[
+				"mod",
+				"mod	module .. end"
+			],
+			[
+				"ffs",
+				"ffs	form_for submit"
+			],
+			[
+				"thum",
+				"thumbs_down	(show.html.erb)"
+			],
+			[
+				"thums",
+				"thumbs_up	(show.html.erb)"
+			],
+			[
+				"recipe",
+				"recipe_params"
+			],
+			[
+				"grav",
+				"gravatar_url"
+			],
+			[
+				"ga",
+				"gravatar_id"
+			],
+			[
+				"do",
+				"dow	downto(0) { |n| .. }"
+			],
+			[
+				"valid",
+				"valid_addresses"
+			],
+			[
+				"ca",
+				"cla	class .. end"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"f",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"F",
+				"FRAME	Tag"
+			],
+			[
+				"max",
+				"max_subarray_sum"
+			],
+			[
+				"stock",
+				"stock_picker_nonrecursive"
+			],
+			[
+				"sub",
+				"subarray_sum"
+			],
+			[
+				"subarrays",
+				"sub_arrays"
+			],
+			[
+				"vowels",
+				"vowels_only"
+			],
+			[
+				"vowel",
+				"vowels_only"
+			],
+			[
+				"cat",
+				"cats_with_hats"
+			],
+			[
+				"arr",
+				"array_addition"
+			],
+			[
+				"ari",
+				"arith_geo"
+			],
+			[
+				"reve",
+				"reverse_str"
+			],
+			[
+				"right",
+				"right_start"
+			],
+			[
+				"lef",
+				"left_profit"
+			],
+			[
+				"left",
+				"left_profit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "packag",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"r",
+				"ReadmePlease"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Rea",
+				"ReadmePlease"
+			],
+			[
+				"Read",
+				"ReadmePlease"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Syntas M",
+				"Syntax Manager: Reload Settings"
+			],
+			[
+				"COl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"Hype",
+				"Hyperlink Helper: Lookup with Google & Link"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: if"
+			],
+			[
+				"Set Syntax: JavaS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Co",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			],
+			[
+				"selection",
+				"Rot13 Selection"
+			],
+			[
+				"cc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insall Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List Packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"for x in range(10):",
+			"print('f')",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jmenestr/Desktop/code_examples/defineMethod_with_arguments.rb",
+		"/Users/jmenestr/Downloads/LearningSQLExample.sql",
+		"/Users/jmenestr/Desktop/App Academy Prep/aA_prep.sublime-project",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/views/articles/show.html.erb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/controllers/articles_controller.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/views/articles/index.html.erb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/views/tags/index.html.erb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/controllers/comments_controller.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/controllers/tags_controller.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w4/blog_app/app/controllers/authors_controller.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze-80.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze_generator.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze_solver.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze-61.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze-66.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze-51.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze-72.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze-55.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/bonus/mazes/maze1.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/bonus/board.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/board.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/player.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/computer.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/battleship.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/ship.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/spec/bonues",
+		"/Users/jmenestr/Library/Application Support/Sublime Text 3/Packages/Emmet/README.md",
+		"/Users/jmenestr/Desktop/App Academy Prep/ship",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/spec/battleship_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d4/exercises/lib/spec/hangman_03_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d4/exercises/lib/hangman.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w3/w3d4/dictionary.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d4/exercises/lib/spec/hangman_02_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d4/exercises/lib/spec/hangman_01_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d4/exercises/spec/hangman_01_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/board.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/game.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/lib/spec/board_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/spec/board_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d3/exercises/spec/battleship_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d2/exercises/lib/spec/mastermind_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w3/w3d2/mastermind.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d2/exercises/lib/mastermind.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d1/exercises/lib/spec/01_xml_document_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d1/exercises/lib/01_xml_document.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w3/w3d1/01_xml_document.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d1/exercises/lib/spec/00_options_hashes_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w3/w3d1/exercises/lib/00_options_hashes.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/computer_player.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/spec/game_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/human_player.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d4/game.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d4/human_player.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d4/computer_player.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/spec/computer_player_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/spec/human_player_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d4/board.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d4/exercises/lib/spec/board_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/00_rpn_calculator.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/expression.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/improved_rpn_calculator.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/io_exercises.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/test-shuffled.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/spec/io_exercises_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/lib/test.txt",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d3/exercises/spec/io_exercises_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d1/exercises/lib/01_in_words.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d1/exercises/lib/00_rpn_calculator.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d1/00_rpn_calculator.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d1/exercises/spec/01_in_words_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d1/exercises/lib/spec/01_in_words_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d1/exercises/lib/spec/00_rpn_calculator_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/spec/towers_of_hanoi_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/towers_of_hanoi.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/student.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/course.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/spec/extension_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d2/student.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/spec/course_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/lib/spec/student_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w2/w2d2/course.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/spec/student_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w2/w2d2/exercises/Gemfile",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/spec/05_my_hash_set_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/05_my_hash_set.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/spec/04_dictionary_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/04_dictionary.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w1/w1d4/04_dictionary.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/spec/03_temperature_object_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/03_temperature_object.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/spec/02_timer_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/02_timer.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/01_book_titles.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/spec/01_book_titles_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/spec/00_hello_friend_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d4/exercises/lib/00_hello_friend.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d3/exercises/lib/01_class_extensions.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d3/exercises/lib/spec/01_class_extensions_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d3/exercises/lib/spec/00_array_extensions_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d3/exercises/lib/00_array_extensions.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d3/exercises/spec/00_array_extensions_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w1/w1d2/03_iteration.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/spec/03_iteration_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/03_iteration.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/02_eval_block.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/spec/02_eval_block_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/spec/01_performance_monitor_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/01_performance_monitor.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/spec/00_silly_blocks_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/lib/00_silly_blocks.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d2/exercises/spec/00_silly_blocks_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/04_pig_latin.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/spec/04_pig_latin_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/solutions/w1/w1d1/04_pig_latin.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/03_simon_says.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/spec/03_simon_says_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/02_calculator.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/spec/02_calculator_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/spec/01_temperature_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/01_temperature.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/spec/00_hello_spec.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/lib/00_hello.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/spec/00_hello_spec.rb",
+		"/Users/jmenestr/.Trash/spec/spec_helper.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/spec/spec_helper.rb",
+		"/Users/jmenestr/Desktop/App Academy Prep/w1/w1d1/exercises/spec/.rspec",
+		"/Users/jmenestr/Desktop/Connect4/human_player.rb",
+		"/Users/jmenestr/Desktop/Connect4/test.rb"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update",
+			"%>",
+			"to_s",
+			"puts",
+			".f",
+			"cells",
+			"\"*\"",
+			"puts",
+			"populate_grid",
+			"place_random_ship",
+			"puts",
+			"count",
+			"puts",
+			"battleship",
+			"}\n",
+			"has_ship?",
+			"ship_number",
+			"won?",
+			"count",
+			"board",
+			"full",
+			"abject",
+			"bezazz",
+			"    current_player.display(board)",
+			"mark",
+			"byebug",
+			"place_mark",
+			"marks",
+			"is_dig",
+			"operator?",
+			":+\n",
+			"value",
+			"doubler",
+			"subwords",
+			"factors",
+			"factor",
+			"require 'rspec'",
+			"game_board",
+			"marker",
+			"col_sep",
+			"\n  ",
+			"Board.new",
+			"board",
+			"maker",
+			"require",
+			"Set",
+			"set_position!",
+			"marker",
+			"return self",
+			"max",
+			"self.over?",
+			"\"x\"",
+			"move",
+			"player_",
+			"Backbone.Model",
+			"initialize",
+			"Backbone.Model",
+			"new ",
+			"new child",
+			"Surrogate",
+			"initialize",
+			"iinitialize",
+			"protoProps",
+			"extend: ",
+			"extend",
+			"extend:",
+			"Model.extend",
+			"root.Backbone",
+			"window.Backbone",
+			"Model.extend",
+			"Model",
+			".init",
+			"addClass",
+			"jQuery.addClass",
+			".addClass",
+			"jQuery.fn.init",
+			"init = ",
+			"initalize",
+			"jQuery.find",
+			"Sizzle",
+			"jQuery.each =",
+			"jQuery.each",
+			".each",
+			".extend",
+			".init",
+			"module",
+			"NoGlobal",
+			"jQuery",
+			"window.$",
+			"jQuery.fn",
+			"jQuery.prototype",
+			"window.$",
+			".fn.init",
+			"identity",
+			"iden",
+			"_.map",
+			"):",
+			"#star",
+			"div",
+			"recipe",
+			"review",
+			"Review",
+			"edit",
+			"cb",
+			"style",
+			"div",
+			"end",
+			"style",
+			"require_correct_user",
+			"@recipe = Recipe.find",
+			"%>\n",
+			"recipe",
+			"recipes",
+			"thumbs_down_total",
+			"div",
+			"PictureUploader",
+			"@recipe",
+			"well",
+			"Description",
+			"description",
+			"p",
+			") ",
+			"p",
+			"      \n",
+			"name",
+			"email",
+			"p",
+			"h2"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"board",
+			"chefname",
+			"audioPlayer",
+			"<img class='img-responsive'",
+			"img class='img-responsive'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 244.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 140.0
+	},
+	"pinned_build_system": "",
+	"project": "appAcademy.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"w4/blog_app/config/routes.rb"
+			],
+			[
+				"nav",
+				"app/views/layouts/_nav.html.erb"
+			],
+			[
+				"res",
+				"app/controllers/restaurants_controller.rb"
+			],
+			[
+				"create",
+				"db/migrate/20150615225741_create_restaurants.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				".css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cont",
+				"app/views/pages/contact.html.erb"
+			],
+			[
+				"about",
+				"app/views/pages/about.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"like",
+				"app/models/like.rb"
+			],
+			[
+				"recipe",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/recipes/index.html.erb"
+			],
+			[
+				"recipe_co",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"lik",
+				"app/views/shared/_likes.html.erb"
+			],
+			[
+				"reeview",
+				"app/views/recipes/_review_form.html.erb"
+			],
+			[
+				"show",
+				"app/views/recipes/show.html.erb"
+			],
+			[
+				"recipes",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"recip",
+				"app/models/recipe.rb"
+			],
+			[
+				"rat",
+				"app/models/rating.rb"
+			],
+			[
+				"review",
+				"app/models/review.rb"
+			],
+			[
+				"recipe.r",
+				"app/models/recipe.rb"
+			],
+			[
+				"ratings",
+				"app/controllers/ratings_controller.rb"
+			],
+			[
+				"recipe.rb",
+				"app/models/recipe.rb"
+			],
+			[
+				"create_rat",
+				"db/migrate/20150613031454_create_ratings.rb"
+			],
+			[
+				"r_re",
+				"app/views/recipes/_review_form.html.erb"
+			],
+			[
+				"chef",
+				"app/models/chef.rb"
+			],
+			[
+				"rating",
+				"app/models/rating.rb"
+			],
+			[
+				"createrating",
+				"db/migrate/20150613031454_create_ratings.rb"
+			],
+			[
+				"remove",
+				"db/migrate/20150613031250_remove_rating_from_reviews.rb"
+			],
+			[
+				"index",
+				"app/views/recipes/index.html.erb"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"_revi",
+				"app/views/reviews/_review.html.erb"
+			],
+			[
+				"reci",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"chef_co",
+				"app/controllers/chefs_controller.rb"
+			],
+			[
+				"_at",
+				"app/views/recipes/_attributes.html.erb"
+			],
+			[
+				"_st",
+				"app/views/styles/_style.html.erb"
+			],
+			[
+				"att",
+				"app/views/recipes/_attributes.html.erb"
+			],
+			[
+				"attri",
+				"app/views/recipes/_attributes.html.erb"
+			],
+			[
+				"review_t",
+				"test/models/review_test.rb"
+			],
+			[
+				"chef.rb",
+				"app/models/chef.rb"
+			],
+			[
+				"",
+				"Gemfile"
+			],
+			[
+				"reviews",
+				"db/migrate/20150612185807_create_reviews.rb"
+			],
+			[
+				"reve",
+				"test/models/review_test.rb"
+			],
+			[
+				"revi",
+				"test/models/review_test.rb"
+			],
+			[
+				"reciep",
+				"app/models/recipe.rb"
+			],
+			[
+				"create_review",
+				"db/migrate/20150612182244_create_reviews_table.rb"
+			],
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"create_re",
+				"db/migrate/20150604012336_create_recipes.rb"
+			],
+			[
+				".todo",
+				"features.todo"
+			],
+			[
+				"error",
+				"app/views/shared/_errors.html.erb"
+			],
+			[
+				"form",
+				"app/views/chefs/_form.html.erb"
+			],
+			[
+				"recipe/show",
+				"app/views/recipes/show.html.erb"
+			],
+			[
+				"add_ad",
+				"db/migrate/20150612063752_add_admin_to_chefs.rb"
+			],
+			[
+				"_form",
+				"app/views/recipes/_form.html.erb"
+			],
+			[
+				"ingre",
+				"app/controllers/ingredients_controller.rb"
+			],
+			[
+				"styles",
+				"app/controllers/styles_controller.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"shared/likes",
+				"app/views/shared/_likes.html.erb"
+			],
+			[
+				"che",
+				"app/controllers/chefs_controller.rb"
+			],
+			[
+				"_in",
+				"app/views/ingredients/_ingredient.html.erb"
+			],
+			[
+				"_ingre",
+				"app/views/ingredients/_ingredient.html.erb"
+			],
+			[
+				"_sty",
+				"app/views/styles/_style.html.erb"
+			],
+			[
+				"_styl",
+				"app/views/styles/_style.html.erb"
+			],
+			[
+				"ingredients_c",
+				"app/controllers/ingredients_controller.rb"
+			],
+			[
+				"new",
+				"app/views/styles/new.html.erb"
+			],
+			[
+				"re",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"create_rec",
+				"db/migrate/20150610010513_create_recipe_styles.rb"
+			],
+			[
+				"ing",
+				"app/models/ingredient.rb"
+			],
+			[
+				"sty",
+				"app/models/style.rb"
+			],
+			[
+				"create_i",
+				"db/migrate/20150610010111_create_ingredients.rb"
+			],
+			[
+				"create_st",
+				"db/migrate/20150610005835_create_styles.rb"
+			],
+			[
+				"uplo",
+				"app/uploaders/picture_uploader.rb"
+			],
+			[
+				"tit",
+				"app/views/shared/_title.html.erb"
+			],
+			[
+				"ind",
+				"app/views/chefs/index.html.erb"
+			],
+			[
+				"chef_con",
+				"app/controllers/chefs_controller.rb"
+			],
+			[
+				"stat",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"applic",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"chef_c",
+				"app/controllers/chefs_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"appo",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"rec",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"_for",
+				"app/views/recipes/_form.html.erb"
+			],
+			[
+				"for",
+				"app/views/recipes/_form.html.erb"
+			],
+			[
+				"home.",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"add",
+				"db/migrate/20150608220540_add_password_digest_to_chefs.rb"
+			],
+			[
+				".i",
+				".gitignore"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"show.",
+				"app/views/recipes/show.html.erb"
+			],
+			[
+				"creat",
+				"db/migrate/20150605213505_create_likes.rb"
+			],
+			[
+				"en",
+				"config/environment.rb"
+			],
+			[
+				"add_pi",
+				"db/migrate/20150605181528_add_picture_to_recipes.rb"
+			],
+			[
+				"err",
+				"app/views/shared/_errors.html.erb"
+			],
+			[
+				"edit",
+				"app/views/recipes/edit.html.erb"
+			],
+			[
+				"applicatio",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"chef.r",
+				"app/models/chef.rb"
+			],
+			[
+				"add_chef",
+				"db/migrate/20150604182151_add_chef_id_to_recipes.rb"
+			],
+			[
+				"migration",
+				"db/migrate/20150604061618_add_index_to_chefs.rb"
+			],
+			[
+				"chef_t",
+				"test/models/chef_test.rb"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gefil.l",
+				"Gemfile.lock"
+			],
+			[
+				"ho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"application.h",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"in",
+				"roux_website/index.htm"
+			],
+			[
+				"ma",
+				"roux_website/_css/main.css"
+			],
+			[
+				"main",
+				"roux_website/_css/main.css"
+			],
+			[
+				"f",
+				"roux_website/_fonts/Bitter OFL SIL Font License 1.1.txt"
+			],
+			[
+				"spot",
+				"roux_website/spotlight.htm"
+			],
+			[
+				"main.css",
+				"roux_website/_css/main.css"
+			],
+			[
+				"routes.",
+				"roux_website/roux_website.sublime-project"
+			],
+			[
+				"spr",
+				"_scripts/SpryTabbedPanels.js"
+			],
+			[
+				"400",
+				"400.shtml"
+			],
+			[
+				"mai",
+				"_css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/TicTacToe/tictactoe.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
