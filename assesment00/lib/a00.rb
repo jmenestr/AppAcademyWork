@@ -11,7 +11,7 @@
 # Hint: Think about zipping some things together.
 
 def folding_cipher(str)
-  alpha = "abcdefghijklmnopqrstuvwxyz".split("")
+  alpha = ("a".."z").to_a
   alpha_first13 = alpha.first(13)
   alpha_last13 = alpha.last(13).reverse
 
@@ -48,12 +48,12 @@ end
 def jumble_sort(str, alphabet = nil)
   sort_hash = {}
   if alphabet.nil?
-       "abcdefghijklmnopqrstuvwxyz".split("").each_with_index { |el,i| sort_hash[el] = i}
+       ("a".."z").to_a.each_with_index { |el,i| sort_hash[el] = i}
   else
      alphabet.each_with_index {|char,i| sort_hash[char] = i }
   end
 
-    sorted = str.split("").sort {|char| sort_hash[char] }
+    sorted = str.split("").sort {|char1, char2| sort_hash[char1] <=> sort_hash[char2] }
     sorted.join("")
 end
 
@@ -72,8 +72,9 @@ end
 class String
   def symmetrical?
     rev_str = ""
-    self.each_char {|char| rev_str = char + rev_str}
+    str_cpy = self.gsub(" ","")
+    str_cpy.each_char {|char| rev_str = char + rev_str}
     puts rev_str
-    rev_str == self
+    str_cpy == rev_str
   end
 end
